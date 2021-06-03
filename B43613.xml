@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals made by William Paterson of London, Esq. on behalf of himself and others, for consolidating the perpetual fund of interest payable to the orphans and other creditors of the city of London, by virtue of the act of Parliament entituled An act for relief of the orphans and other creditors of the city of London, and for improving the same so consolidated above the interest payable by the said act.</title>
+            <author>Paterson, William, 1658-1719.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43613</idno><idno type="EEBO-CITATION">767838800</idno>
+  <idno type="VID">212283</idno>
+  <idno type="EEBO-PROQUEST">2240869762</idno>
+  
+            <idno type="OCLC"> 767838800</idno>
+            <idno type="OCLC">ocn 767838800</idno>
+            <idno type="STC">Wing P713</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212283)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3011:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals made by William Paterson of London, Esq. on behalf of himself and others, for consolidating the perpetual fund of interest payable to the orphans and other creditors of the city of London, by virtue of the act of Parliament entituled An act for relief of the orphans and other creditors of the city of London, and for improving the same so consolidated above the interest payable by the said act.</title>
+                  <author>Paterson, William, 1658-1719.</author>
+                  <author>England and Wales. Act for relief of the orphans and other creditors of the city of London, and for improving the same so consolidated above the interest payable by the said act.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in:  Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Banks and banking --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  Great Britain --  History --  1688-1815 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:212283:1"/>
+            <pb facs="tcp:212283:2"/>
+            <head>PROPOSALS Made by <hi>William Paterson</hi> of <hi>London,</hi> Esq;</head>
+            <head type="sub">On behalf of himself and others, for Consolidating the Perpetual Fund of Interest payable to the ORPHANS and other Creditors of the City of <hi>London,</hi> by Virtue of the Act of Parliament Enti<g ref="char:EOLhyphen"/>tuled <hi>An Act for Relief of the Orphans and other Creditors of the City of</hi> London, <hi>and for Improving the same so Consolidated above the In<g ref="char:EOLhyphen"/>terest payable by the said Act.</hi>
+            </head>
+            <p n="1">1. THAT a Book of Subscription shall be prepared, which shall be opened at <hi>Mer<g ref="char:EOLhyphen"/>chant-Taylors-Hall, London,</hi> every Day <hi>(Sundays</hi> only excepted) from Nine a Clock in the Morning to Twelve at Noon, and from Three 'till Six in the Af<g ref="char:EOLhyphen"/>ternoon, and shall lye open upon and from <hi>Thursday</hi> the <hi>14th.</hi> Day of this Instant <hi>February,</hi> until <hi>Thursday</hi> the <hi>14th.</hi> Day of <hi>March</hi> next inclusive, or until Four Hundred Thousand Pounds Stock in the said Fund shall be Subscribed, which shall first hap<g ref="char:EOLhyphen"/>pen, and no longer, for taking Subscriptions of the said Fund, pursuant to these Proposals.</p>
+            <p n="2">II. That <hi>Paul D'Aranda, John Asgill, William Broughton, Paul Docminique, George Finch, Francis Gosfright, Nathaniel Herne, Edward Herrys, Nathaniel Hornby, Robert Lancashire, Sa<g ref="char:EOLhyphen"/>muel Ongly</hi> and <hi>William Sheppard,</hi> together with the said <hi>William Paterson,</hi> shall be of the Num<g ref="char:EOLhyphen"/>ber of the first Trustees, and they or the major part of them shall have the full and absolute Direction of this Subscription, and of all Designs and Undertakings relating thereunto, until other Trustees, not exceeding Thirteen in Number, to be Chosen in manner herein after men<g ref="char:EOLhyphen"/>tioned, shall be added unto them.</p>
+            <p n="3">III. And whereas the Design for Improving this Fund can no ways be reduced to Practice, unless a suitable Number of fit and useful Persons be qualified for this Trust, by becoming Par<g ref="char:EOLhyphen"/>ticipants and Proprietors therein: And the Purchasing of such reasonable Part or Interest in the said Fund being extreamly difficult, unless the Purchasers should be content to be most exorbitantly Imposed upon: For Remedy thereof it is hereby agreed, that Ten <hi>per Cent.</hi> of this Subscription shall be equally divided amongst such as shall be the first Trustees, they and eve<g ref="char:EOLhyphen"/>ry of them paying at the Rate of Fifty five Pounds for every Hundred Pounds of the said Fund, which shall be equally paid to every Subscriber in Proportion to his or her Summe subscribed and Part contributed.</p>
+            <p n="4">IV. That upon the Fifteenth Day of <hi>March</hi> next, or as soon as the said Four Hundred Thou<g ref="char:EOLhyphen"/>sand Pounds shall be Subscribed, which shall first happen, the Subscription-Book shall be clo<g ref="char:EOLhyphen"/>sed; and after the closing thereof, the said Trustees herein named shall give Three Days pub<g ref="char:EOLhyphen"/>lick Notice at the least of a General Meeting of all the Subscribers, to choose by Majority of Votes such other Persons as are to be added to the Number of the Trustees, every Five Hun<g ref="char:EOLhyphen"/>dred Pounds subscribed having One Vote, and no one Person whatsoever to have more than Ten Votes.</p>
+            <p n="5">V. That when and as soon as the Book of Subscription shall be closed and shut, and the Num<g ref="char:EOLhyphen"/>ber of Trustees compleat, the several and respective Summs subscribed shall be legally Transferr<g ref="char:EOLhyphen"/>ed and Assigned to the said Trustees, who shall declare the Uses and Trust thereof by a Deed of Settlement, a Draught whereof shall be published within Ten Days after closing the said Book: And shall provide and keep Books of Credit and Transferr, for ascertaining and transferring every ones Part and Interest in this Fund subscribed and consolidated.</p>
+            <p n="6">VI. That the said <hi>William Paterson,</hi> and such other Persons as he shall Name, shall have and receive Twelve Pence in the Pound of all Clear Profits made by or by reason of this Consoli<g ref="char:EOLhyphen"/>dating and Constitution (other than and except the Interest paid or to be paid by the City of <hi>London,</hi> pursuant to the said Act) for and in regard of his or their Contrivance, Labour and Ex<g ref="char:EOLhyphen"/>pence in and about the same.</p>
+            <p n="7">VII. That the Trustees for the time being, together with the Subscribes or their re<g ref="char:EOLhyphen"/>spective Assignes, shall and may from time to time make, agree, constitute and settle, such Rules, Orders and Constitutions, as they or the major part of them present at any As<g ref="char:EOLhyphen"/>sembly shall think convenient, for the good Government and Improvement of the said Fund and Constitution hereby intended.</p>
+            <p n="8">VIII. That every Subscriber hereunto at any time within twenty eight days next after the clo<g ref="char:EOLhyphen"/>sing the said Book, may revoke his or her Subscription, or any part thereof, by Writing under his or her Hand, to be entred in a Book to be kept for that purpose by the Trustees: And such Sub<g ref="char:EOLhyphen"/>scription, or such part thereof as shall thereby be declared to be revoked within the time afore<g ref="char:EOLhyphen"/>said, shall be null and void as if it had never been, but otherwise to be and remain in full force.</p>
+            <p n="9">IX. That from and after the End of the said twenty eight days, and until the Stock subscrib<g ref="char:EOLhyphen"/>ed and not revoked as aforesaid shall be transferred, the said Trustees may proceed to act in the said Trust, as if the said Stock or Fund were actually transferred unto them.</p>
+            <p n="10">X. That the said Trustees and Subscribers after the Execution of their Deed of Settlement and Constitution, may admit and take in such other Additional Subscriptions to augment their Fund as they shall think needful, and upon such Terms and Conditions as they shall think fit.</p>
+            <closer>We the Persons hereunto Subscribing being severally Interested in the Perpetual Fund be<g ref="char:EOLhyphen"/>fore mentioned, having severally Perused and Approved the Proposals aforesaid, do se<g ref="char:EOLhyphen"/>verally Agree thereunto, for the several and respective Summs in the said Fund▪ by each of us subscribed.</closer>
+            <pb facs="tcp:212283:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
